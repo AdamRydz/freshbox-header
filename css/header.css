@@ -64,7 +64,7 @@ img {
   font-family: DM Sans, sans-serif;
 }
 
-.left-side {
+.right-side {
   align-self: stretch;
   display: flex;
   gap: 8px;
@@ -73,7 +73,7 @@ img {
   margin: auto 0;
   font-family: DM Sans, sans-serif;
 }
-.icon {
+.logo {
   aspect-ratio: 1;
   object-fit: auto;
   object-position: center;
@@ -82,7 +82,7 @@ img {
   color: #ae1332;
 }
 
-.icon-2 {
+.icon-cart {
   aspect-ratio: 1;
   object-fit: auto;
   object-position: center;
